@@ -5,13 +5,19 @@ This project covers a ML workflow: data cleaning, EDA, feature analysis, modelin
 
 ---
 
-##  Overview
-- **Goal:** Build an accurate and interpretable model to predict `Exam_Score`.
-- **Data:** 6,607 rows × 20 features .
-- **Target:** `Exam_Score` .
+##  Workflow
+<img src="IMGs/StudentPerformanceFactors%20Workflow.png" alt="Student Performance Factors Workflow" width="600">
+
 ---
 
-##  Pipeline
+## 📌 Overview
+- **Goal:** Build an accurate and interpretable model to predict `Exam_Score`.
+- **Data:** 6,607 rows × 20 features.
+- **Target:** `Exam_Score`.
+
+---
+
+## Pipeline
 1. **Data Cleaning**
    - Missing values handling
    - Outlier handling & final checks
