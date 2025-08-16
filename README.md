@@ -9,10 +9,6 @@ This project covers a full ML workflow: data cleaning, EDA, feature analysis, mo
 - **Goal:** Build an accurate and interpretable model to predict `Exam_Score`.
 - **Data:** 6,607 rows × 20 features .
 - **Target:** `Exam_Score` .
-
----
-
-
 ---
 
 ##  Pipeline
