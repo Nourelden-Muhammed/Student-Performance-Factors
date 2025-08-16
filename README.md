@@ -1,7 +1,7 @@
 # Student Exam Score Prediction
 
 Predicting **Exam_Score** from student behavioral and contextual factors.  
-This project covers a full ML workflow: data cleaning, EDA, feature analysis, modeling, and evaluation.
+This project covers a ML workflow: data cleaning, EDA, feature analysis, modeling, and evaluation.
 
 ---
 
